@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Order_Food</string>
+    <string name="lounge_special">Lounge Special</string>
+
+    <string name="chicken_pizza">Chicken Pizza</string>
+
+    <string name="beef_pizza">Beef Pizza</string>
+
+    <string name="veggie_pizza">Veggie Pizza</string>
+
+    <string name="burgers">Burgers</string>
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors">Colors</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">Numbers</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_family">Family Members</string>
+
+    <string name="number_activity_name">Numbers</string>
+    <string name="family_activity_name">Family</string>
+    <string name="colors_activity_name">Colors</string>
+
+    <string name="phrases_activity_name">Phrases</string>
+</resources>
